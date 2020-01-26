@@ -1,0 +1,1 @@
+insert into Document (id, content) values (20, '20-th document content');
